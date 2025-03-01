@@ -1,0 +1,7 @@
+name: heatmap-analytics
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pyspark
+  - pandas
